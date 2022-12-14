@@ -83,7 +83,8 @@ DATABASES = {
     'NAME': 'fiftyeast',
     'USER': 'postgres',
     'PASSWORD': 'admin',
-    'HOST': 'localhost'
+    'HOST': 'localhost',
+    'PORT': '5433'
     }
 }
 
